@@ -45,7 +45,7 @@ header nav ul {
 }
 
 header nav ul li a {
-  padding-bottom: 10px 15px;
+  padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
 }
@@ -93,10 +93,7 @@ section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-<<<<<<< HEAD
-=======
   align-items: flex-start;
->>>>>>> feature/mediaqueries
 }
 
 .hero-cta {
@@ -105,11 +102,7 @@ section {
   margin: 3.5%;
   color: #fff;
   font-size: 18px;
-<<<<<<< HEAD
-  line-height: 1.3;
-=======
   line-height: 1.2;
->>>>>>> feature/mediaqueries
 }
 
 .hero-cta h2 {
@@ -157,40 +150,18 @@ section {
   font-size: 16px;
 } 
 /* HERO STYLES END */
-<<<<<<< HEAD
-
-
-/* SECTION TITLE STYLES START */
-.section-title {
-  font-size: 55px;
-=======
 
 
 /* SECTION TITLE STYLES START */
 .section-title {
   font-size: 48px;
->>>>>>> feature/mediaqueries
   border-bottom: 3px solid;
   color: #024e76;
   padding-bottom: 20px;
   text-align: center;
   margin: 0 auto 35px auto;
   width: 50%;
-<<<<<<< HEAD
-=======
 }
-
-.primary-border {
-  border-color: #fce138;
-}
-
-.secondary-border {
-  border-color: #39a6b2;
->>>>>>> feature/mediaqueries
-}
-/* SECTION TITLE STYLES END */
-
-/* WHAT WE DO STYLES */
 
 .primary-border {
   border-color: #fce138;
@@ -212,13 +183,8 @@ section {
   text-align: center;
 }
 /* WHAT YOU DO STYLES END */
-<<<<<<< HEAD
 
 
-=======
-
-
->>>>>>> feature/mediaqueries
 /* WHAT YOU DO STYLES START */
 .steps { 
   background: #fce138;
@@ -264,7 +230,6 @@ section {
 .step-text p {
   color: #39a6b2;
   font-size: 18px;
-<<<<<<< HEAD
 }
 
 .step-text h4 {
@@ -273,16 +238,6 @@ section {
   color: #024e76;
 }
 
-=======
-}
-
-.step-text h4 {
-  font-size: 26px;
-  line-height: 1.5;
-  color: #024e76;
-}
-
->>>>>>> feature/mediaqueries
 /* WHAT YOU DO STYLES END */
 
 /* MEET THE TRAINERS START */
@@ -404,9 +359,6 @@ section {
 
 .flex-row {
   display: flex;
-<<<<<<< HEAD
-}
-=======
 }
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
@@ -516,4 +468,3 @@ section {
     order: 3;
   }
 }
->>>>>>> feature/mediaqueries
